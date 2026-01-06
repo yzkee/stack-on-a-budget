@@ -159,6 +159,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [CloudAMQP](pages/messaging-queue-services.md#cloudamqp)
     - [Google Cloud Pub/Sub](pages/messaging-queue-services.md#google-cloud-pubsub)
 - [**Misc**](pages/misc.md)
+    - [APIVerve](pages/misc.md#apiverve)
     - [Argonaut](pages/misc.md#argonaut)
     - [ExchangeRate-API](pages/misc.md#exchangerate-api)
     - [FingerprintJS Pro](pages/misc.md#fingerprintjs-pro)
